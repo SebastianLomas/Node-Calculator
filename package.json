@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SebastianLomas/Node-Calculator/issues"
   },
-  "homepage": "https://github.com/SebastianLomas/Node-Calculator#readme"
+  "homepage": "https://github.com/SebastianLomas/Node-Calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
