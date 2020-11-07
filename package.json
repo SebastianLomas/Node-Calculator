@@ -1,0 +1,27 @@
+{
+  "name": "node-calculator",
+  "version": "1.0.0",
+  "description": "A simple node calculator(my first node app)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianLomas/Node-Calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "node",
+    "app"
+  ],
+  "author": "Sebastian Lomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianLomas/Node-Calculator/issues"
+  },
+  "homepage": "https://github.com/SebastianLomas/Node-Calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
